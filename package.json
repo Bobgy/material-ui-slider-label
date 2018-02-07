@@ -23,7 +23,7 @@
   "homepage": "https://github.com/tariqwest/material-ui-slider-label",
   "peerDependencies": {
     "react": "^15.4.0",
-    "react-dom": "^15.4.0",
+    "react-dom": "^15.4.0"
   },
   "dependencies": {
     "material-ui": "^0.20.0",
